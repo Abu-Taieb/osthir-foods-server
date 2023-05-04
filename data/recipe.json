@@ -2,8 +2,9 @@
   {
     "_id": 1,
     "name": "Spaghetti Carbonara",
-    "recipe_picture": "https://ibb.co/WnM3P6J",
+    "recipe_picture": "https://images.unsplash.com/photo-1547592180-85f173990554?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "chef": "Giuseppe Rossi",
+    "rating": 4.5,
     "description": "A classic Italian pasta dish made with spaghetti, eggs, pancetta or bacon, and cheese.",
     "ingredients": [
       "1 pound spaghetti",
@@ -25,8 +26,9 @@
   {
     "_id": 2,
     "name": "Roast Chicken",
-    "recipe_picture": "https://ibb.co/ZNBnCb0",
+    "recipe_picture": "https://images.unsplash.com/photo-1605522561233-768ad7a8fabf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
     "chef": "Jamie Smith",
+    "rating": 4,
     "description": "A classic roast chicken recipe that is simple to prepare and always delicious.",
     "ingredients": [
       "1 whole chicken",
@@ -48,8 +50,9 @@
   {
     "_id": 3,
     "name": "Vegetable Stir-Fry",
-    "recipe_picture": "https://ibb.co/M1wDw4j",
+    "recipe_picture": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "chef": "Samantha Lee",
+    "rating": 3.5,
     "description": "A healthy and flavorful stir-fry recipe that is perfect for a quick and easy weeknight dinner.",
     "ingredients": [
       "1 tablespoon vegetable oil",

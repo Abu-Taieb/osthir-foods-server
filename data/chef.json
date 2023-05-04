@@ -1,7 +1,7 @@
 [
   {
     "_id": 1,
-    "chef_picture": "https://ibb.co/6WfByNm",
+    "chef_picture":"https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "chef_name": "John Smith",
     "years_of_experience": 10,
     "num_recipes": 5,
@@ -10,7 +10,7 @@
   },
   {
     "_id": 2,
-    "chef_picture": "https://ibb.co/d0q8VFh",
+    "chef_picture": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "chef_name": "Maria Rodriguez",
     "years_of_experience": 8,
     "num_recipes": 7,
@@ -19,7 +19,7 @@
   },
   {
     "_id": 3,
-    "chef_picture": "https://ibb.co/ByLtDkt",
+    "chef_picture": "https://images.unsplash.com/photo-1606787503066-794bb59c64bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "chef_name": "Dav_id Lee",
     "years_of_experience": 15,
     "num_recipes": 12,
@@ -28,7 +28,7 @@
   },
   {
     "_id": 4,
-    "chef_picture": "https://ibb.co/q7HvNcM",
+    "chef_picture": "https://images.unsplash.com/photo-1611783214219-8f3662a26838?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "chef_name": "Sara Kim",
     "years_of_experience": 5,
     "num_recipes": 3,
@@ -37,7 +37,7 @@
   },
   {
     "_id": 5,
-    "chef_picture": "https://ibb.co/64P0TMB",
+    "chef_picture": "https://img.freepik.com/free-photo/happy-young-male-chef-cutting-red-chili-with-knife-kitchen-counter_23-2147863496.jpg?w=740&t=st=1683181733~exp=1683182333~hmac=2ba45789bbea1ba7ea3799c518add7eb0f7adff8d431359a6325fe7b8cf0ea74",
     "chef_name": "Michael Chang",
     "years_of_experience": 12,
     "num_recipes": 8,
@@ -46,47 +46,11 @@
   },
   {
     "_id": 6,
-    "chef_picture": "https://ibb.co/CPSRrQV",
+    "chef_picture": "https://plus.unsplash.com/premium_photo-1661778003363-ccf7f0683124?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "chef_name": "Karen Patel",
     "years_of_experience": 7,
     "num_recipes": 6,
     "likes": 1200,
     "description": "Karen Patel is a talented chef with a passion for vegetarian and vegan cuisine. She believes that food should be both delicious and healthy, and she has developed a unique style that emphasizes fresh, colorful ingredients and bold flavors. Karen's recipes are always inventive and satisfying, and her commitment to sustainability and ethical sourcing has earned her a dedicated following among eco-conscious foodies."
-  },
-  {
-    "_id": 7,
-    "chef_picture": "https://ibb.co/ZVBbjPW",
-    "chef_name": "Robert Davis",
-    "years_of_experience": 20,
-    "num_recipes": 15,
-    "likes": 3000,
-    "description": "Robert Davis is a seasoned chef with a wealth of experience in a variety of culinary traditions. He has worked in some of the world's top restaurants and has trained many successful chefs over the course of his career. Robert's recipes are classic and timeless, and his mastery of traditional techniques is unparalleled. He is a true icon in the culinary world and a mentor to many aspiring chefs."
-  },
-  {
-    "_id": 8,
-    "chef_picture": "https://ibb.co/MgY5P17",
-    "chef_name": "Julia Nguyen",
-    "years_of_experience": 4,
-    "num_recipes": 2,
-    "likes": 300,
-    "description": "Julia Nguyen is a young and ambitious chef with a passion for healthy and sustainable cuisine. She believes that food should be both nourishing and delicious, and she works hard to create dishes that are both. Julia's recipes are simple and approachable, but always flavorful and satisfying. Despite her relative inexperience, Julia has already made a name for herself in the culinary world and has big plans for the future."
-  },
-  {
-    "_id": 9,
-    "chef_picture": "https://ibb.co/TLHPFTQ",
-    "chef_name": "Carlos Gonzalez",
-    "years_of_experience": 9,
-    "num_recipes": 10,
-    "likes": 2200,
-    "description": "Carlos Gonzalez is a talented chef with a passion for bold, flavorful cuisine. He draws inspiration from his Latin American heritage and combines traditional techniques with modern flavors to create dishes that are both familiar and surprising. Carlos's recipes are always a hit with his clients, and his energy and enthusiasm for cooking are contagious. He is a rising star in the culinary world and a force to be reckoned with."
-  },
-  {
-    "_id": 10,
-    "chef_picture": "https://ibb.co/JQn3H5j",
-    "chef_name": "Emily Wong",
-    "years_of_experience": 6,
-    "num_recipes": 4,
-    "likes": 800,
-    "description": "Emily Wong is a creative and talented chef with a love for fusion cuisine. She combines elements from a variety of culinary traditions to create dishes that are both unique and delicious. Emily's recipes are always surprising and inventive, and her presentation is a feast for the eyes. She is a rising star in the culinary world and has a bright future ahead of her."
   }
 ]
