@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "_id": 1,
     "chef_picture": "https://ibb.co/6WfByNm",
     "chef_name": "John Smith",
     "years_of_experience": 10,
@@ -9,7 +9,7 @@
     "description": "John Smith is an experienced chef with a passion for creating delicious and healthy meals. He has worked in a variety of restaurants and catering companies over the past 10 years, honing his skills and developing a unique style that blends traditional techniques with modern flavors. John's recipes are always a hit with his clients, and his commitment to quality and creativity has earned him a loyal following."
   },
   {
-    "id": 2,
+    "_id": 2,
     "chef_picture": "https://ibb.co/d0q8VFh",
     "chef_name": "Maria Rodriguez",
     "years_of_experience": 8,
@@ -18,16 +18,16 @@
     "description": "Maria Rodriguez is a talented chef with a passion for using fresh, seasonal ingredients to create delicious and nutritious meals. She has worked in some of the top restaurants in the country and has won several awards for her innovative cuisine. Maria's recipes are always in high demand, and her commitment to sustainability and ethical sourcing has earned her a loyal following among foodies and environmentalists alike."
   },
   {
-    "id": 3,
+    "_id": 3,
     "chef_picture": "https://ibb.co/ByLtDkt",
-    "chef_name": "David Lee",
+    "chef_name": "Dav_id Lee",
     "years_of_experience": 15,
     "num_recipes": 12,
     "likes": 2000,
-    "description": "David Lee is a master chef with over 15 years of experience in some of the world's top restaurants. He is known for his precision and attention to detail, and his dishes are always works of art. David's recipes are complex and challenging, but the end result is always worth it. His commitment to excellence has earned him numerous awards and accolades over the years."
+    "description": "Dav_id Lee is a master chef with over 15 years of experience in some of the world's top restaurants. He is known for his precision and attention to detail, and his dishes are always works of art. Dav_id's recipes are complex and challenging, but the end result is always worth it. His commitment to excellence has earned him numerous awards and accolades over the years."
   },
   {
-    "id": 4,
+    "_id": 4,
     "chef_picture": "https://ibb.co/q7HvNcM",
     "chef_name": "Sara Kim",
     "years_of_experience": 5,
@@ -36,7 +36,7 @@
     "description": "Sara Kim is a young and talented chef with a passion for fusion cuisine. She loves to experiment with different flavors and ingredients, and her dishes are always surprising and delicious. Despite her relatively short career, Sara has already made a name for herself in the culinary world, and her fans eagerly anticipate her next creation."
   },
   {
-    "id": 5,
+    "_id": 5,
     "chef_picture": "https://ibb.co/64P0TMB",
     "chef_name": "Michael Chang",
     "years_of_experience": 12,
@@ -45,7 +45,7 @@
     "description": "Michael Chang is a creative chef with a love for Asian cuisine. He has spent years traveling and studying different culinary traditions, and his recipes reflect his broad knowledge and expertise. Michael's dishes are always a feast for the senses, with bold flavors and beautiful presentations. He is a popular figure in the foodie community and has a large following on social media."
   },
   {
-    "id": 6,
+    "_id": 6,
     "chef_picture": "https://ibb.co/CPSRrQV",
     "chef_name": "Karen Patel",
     "years_of_experience": 7,
@@ -54,7 +54,7 @@
     "description": "Karen Patel is a talented chef with a passion for vegetarian and vegan cuisine. She believes that food should be both delicious and healthy, and she has developed a unique style that emphasizes fresh, colorful ingredients and bold flavors. Karen's recipes are always inventive and satisfying, and her commitment to sustainability and ethical sourcing has earned her a dedicated following among eco-conscious foodies."
   },
   {
-    "id": 7,
+    "_id": 7,
     "chef_picture": "https://ibb.co/ZVBbjPW",
     "chef_name": "Robert Davis",
     "years_of_experience": 20,
@@ -63,7 +63,7 @@
     "description": "Robert Davis is a seasoned chef with a wealth of experience in a variety of culinary traditions. He has worked in some of the world's top restaurants and has trained many successful chefs over the course of his career. Robert's recipes are classic and timeless, and his mastery of traditional techniques is unparalleled. He is a true icon in the culinary world and a mentor to many aspiring chefs."
   },
   {
-    "id": 8,
+    "_id": 8,
     "chef_picture": "https://ibb.co/MgY5P17",
     "chef_name": "Julia Nguyen",
     "years_of_experience": 4,
@@ -72,7 +72,7 @@
     "description": "Julia Nguyen is a young and ambitious chef with a passion for healthy and sustainable cuisine. She believes that food should be both nourishing and delicious, and she works hard to create dishes that are both. Julia's recipes are simple and approachable, but always flavorful and satisfying. Despite her relative inexperience, Julia has already made a name for herself in the culinary world and has big plans for the future."
   },
   {
-    "id": 9,
+    "_id": 9,
     "chef_picture": "https://ibb.co/TLHPFTQ",
     "chef_name": "Carlos Gonzalez",
     "years_of_experience": 9,
@@ -81,7 +81,7 @@
     "description": "Carlos Gonzalez is a talented chef with a passion for bold, flavorful cuisine. He draws inspiration from his Latin American heritage and combines traditional techniques with modern flavors to create dishes that are both familiar and surprising. Carlos's recipes are always a hit with his clients, and his energy and enthusiasm for cooking are contagious. He is a rising star in the culinary world and a force to be reckoned with."
   },
   {
-    "id": 10,
+    "_id": 10,
     "chef_picture": "https://ibb.co/JQn3H5j",
     "chef_name": "Emily Wong",
     "years_of_experience": 6,
