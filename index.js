@@ -9,7 +9,7 @@ const recipe = require('./data/recipe.json')
 app.use(cors())
 
 app.get('/', (req, res) =>{
-    res.send('hello world bangla')
+    res.send('Hello Chef')
 })
 
 app.get('/chef', (req, res) => {
